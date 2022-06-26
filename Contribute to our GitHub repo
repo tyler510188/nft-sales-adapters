@@ -1,0 +1,7 @@
+
+this.name = "Layer3.DappRadar";
+this.symbol = null;
+this.token = "0x049896f350C802CD5C91134E5f35Ec55FA8f0108";
+this.protocol = "Arbitrum One";
+this.block = 12855192;
+this.contract = "https://www.bscscan.com/address/0x049896f350C802CD5C91134E5f35Ec55FA8f0108"
